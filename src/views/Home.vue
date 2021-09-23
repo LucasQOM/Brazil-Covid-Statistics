@@ -1,11 +1,6 @@
 <template>
   <v-app>
     <v-container align="center">
-      <v-row justify="center" class="my-3">
-        <div>
-          <img src="..\assets\covid.png" height="150" width="150">
-        </div>
-      </v-row>
       <v-row justify="center" class="mt-3">
         <v-col cols="12" sm="6">
           <v-row align="center">
