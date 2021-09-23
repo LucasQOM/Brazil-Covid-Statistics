@@ -62,6 +62,11 @@
       padding-top: 0px;
     }
   }
+  @media screen and (min-width: 1900px) {
+  .rejectedCases{
+      padding-top: 10px;
+    }
+}
 }
 
 #nav {
